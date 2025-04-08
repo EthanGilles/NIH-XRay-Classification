@@ -1,3 +1,5 @@
 sorted/
 allimages/
 xception_model_weights.pth
+data/
+output/
