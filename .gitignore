@@ -1,4 +1,5 @@
 sorted/
+sorted_subset/
 allimages/
 xception_model_weights.pth
 data/
