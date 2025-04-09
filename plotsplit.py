@@ -117,7 +117,7 @@ def visualize_data_distribution(data_dir, save_plots=True):
     plt.show()
 
 if __name__ == "__main__":
-    data_directory = "sorted"  # Path to your sorted directory
+    data_directory = "sorted_subset"  # Path to your sorted directory
     
     if not os.path.exists(data_directory):
         print(f"Error: Directory '{data_directory}' not found.")
